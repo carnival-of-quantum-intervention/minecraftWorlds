@@ -1,0 +1,22 @@
+{
+    "cs_wuqi_gong_0_0": {
+        "animation": {
+            "cs_wuqi_shejian_0_0": "animation/cs_wuqi_gong_0_0_animation_shejian_0_0.json",
+            "cs_wuqi_shejian_idle_0": "animation/cs_wuqi_gong_0_0_animation_shejian_idle_0.json"
+        },
+        "mesh": "mesh/cs_wuqi_gong_0_0_mesh.json",
+        "skeleton": "skeleton/cs_wuqi_gong_0_0_skeleton.json",
+		"texture": {
+            "tex1": "dy_load/cs_gong_0_bloom"
+        },
+		"dy_load": true
+    },
+    "cs_wuqi_jian_0_0": {
+        "mesh": "mesh/cs_wuqi_jian_0_0_mesh.json",
+        "skeleton": "skeleton/cs_wuqi_jian_0_0_skeleton.json",
+		"texture": {
+            "tex1": "dy_load/cs_jian_0_bloom"
+        },
+		"dy_load": true
+    }
+}

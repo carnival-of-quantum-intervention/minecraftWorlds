@@ -1,0 +1,25 @@
+{
+    "header": {
+        "version": [
+            0, 
+            0, 
+            2
+        ], 
+        "uuid": "8f5e3769-c590-46dd-8e93-5c69344ce486", 
+        "name": "cs_horse_jixiedujiaoshou_0_0", 
+        "description": "By @netease"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                2
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "104a5a7d-2871-4f8e-929b-44c32787520e"
+        }
+    ], 
+    "format_version": 1
+}

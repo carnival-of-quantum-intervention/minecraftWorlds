@@ -1,0 +1,25 @@
+{
+    "header": {
+        "uuid": "38c47445-4302-4820-8a40-81861d998c3e", 
+        "version": [
+            0, 
+            0, 
+            5
+        ], 
+        "description": "By @netease", 
+        "name": "\u00a7lfootprintS"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                5
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "c521e3e9-e147-41cd-8f3c-71a04c549fac"
+        }
+    ], 
+    "format_version": 1
+}

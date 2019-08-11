@@ -1,0 +1,25 @@
+{
+    "header": {
+        "uuid": "92ecbe44-c1e6-4748-b2b4-86f53449ac56", 
+        "version": [
+            0, 
+            0, 
+            3
+        ], 
+        "description": "By @netease", 
+        "name": "\u00a7ldabaojian"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                3
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "39c87f32-2c98-430e-a35f-c1262c57ee32"
+        }
+    ], 
+    "format_version": 1
+}

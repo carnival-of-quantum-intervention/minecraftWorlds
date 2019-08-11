@@ -1,0 +1,17 @@
+{
+    "v_unicorn": {
+        "mesh": "mesh/kirin_mesh.json", 
+        "animation": {
+            "jump": "animation/kirin_animation_horse_Kirin_jump.json", 
+            "die": "animation/kirin_animation_horse_Kirin_death.json", 
+            "idle": "animation/kirin_animation_horse_Kirin_idle2.json", 
+            "run": "animation/kirin_animation_horse_Kirin_walk.json", 
+            "walk": "animation/kirin_animation_horse_Kirin_idle1.json"
+        }, 
+        "skeleton": "skeleton/kirin_skeleton.json",
+        "texture": {
+            "tex1": "dy_load/horse_Kirin_light"
+        },
+		"dy_load": true
+    }
+}

@@ -1,0 +1,106 @@
+{
+  "particleeffect": {
+    "activetime": {
+      "value": "1.0"
+    },
+    "sizedelta": {
+      "mul": "0.6",
+      "add": "0.12"
+    },
+    "enableloop": {
+      "enable": "false"
+    },
+    "direction": {
+      "max": "0.0 0.0 0.0",
+      "min": "0.0 0.0 0.0"
+    },
+    "fixedscreensize": {
+      "enable": "false"
+    },
+    "dampingforce": {
+      "value": "1.0"
+    },
+    "velocity": {
+      "max": "0.1",
+      "min": "0.1"
+    },
+    "numparticles": {
+      "value": "5"
+    },
+    "rotationspeed": {
+      "max": "0.0",
+      "min": "0.0"
+    },
+    "enablecolor": {
+      "enable": "true"
+    },
+    "blend": {
+      "name": "add"
+    },
+    "colorfade": [
+      {
+        "time": "0.0",
+        "color": "0.0 0.0 0.0 0.0"
+      },
+      {
+        "time": "0.1",
+        "color": "0.666667 0.0 0.0 1"
+      },
+      {
+        "time": "0.25",
+        "color": "0.937255 0.035294 0.05098 1"
+      },
+      {
+        "time": "1.5",
+        "color": "0.0 0.0 0.0 0.0"
+      }
+    ],
+    "particlesize": {
+      "max": "0.15 0.15",
+      "min": "0.1 0.1"
+    },
+    "timetolive": {
+      "max": "1.0",
+      "min": "1.0"
+    },
+    "inactivetime": {
+      "value": "0.0"
+    },
+    "scaled": {
+      "enable": "true"
+    },
+    "constantforce": {
+      "value": "0.0 0.0 0.0"
+    },
+    "material": {
+      "name": "Materials/Particle.xml"
+    },
+    "emittersize": {
+      "value": "0.06 0.06 0.0"
+    },
+    "rotation": {
+      "max": "5.0",
+      "min": "1.0"
+    },
+    "emissionrate": {
+      "max": "4.0",
+      "min": "5.0"
+    },
+    "sorted": {
+      "enable": "false"
+    },
+    "relative": {
+      "enable": "false"
+    },
+    "faceCameraMode": {
+      "value": "Rotate XYZ"
+    },
+    "texture": {
+      "name": "textures/sfxs/dy_load/shenle_spread_8x1",
+      "ani": {
+        "name": "textures/sfxs/dy_load/shenle_spread_8x1",
+        "fps": "12.0"
+      }
+    }
+  }
+}

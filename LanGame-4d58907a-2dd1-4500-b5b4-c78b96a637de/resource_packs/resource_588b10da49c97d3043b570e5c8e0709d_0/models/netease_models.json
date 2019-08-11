@@ -1,0 +1,13 @@
+{
+    "xy_horse_jixielang_0_0": {
+        "animation": {
+            "xy_horse_jixielang_idle1_0": "animation/xy_horse_jixielang_0_0_animation_idle1_0.json",
+            "xy_horse_jixielang_idle3_0": "animation/xy_horse_jixielang_0_0_animation_idle3_0.json",
+            "xy_horse_jixielang_jump_0": "animation/xy_horse_jixielang_0_0_animation_jump_0.json",
+            "xy_horse_jixielang_run_0": "animation/xy_horse_jixielang_0_0_animation_run_0.json"
+        },
+        "mesh": "mesh/xy_horse_jixielang_0_0_mesh.json",
+        "skeleton": "skeleton/xy_horse_jixielang_0_0_skeleton.json",
+		"dy_load": true
+    }
+}

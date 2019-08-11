@@ -1,0 +1,25 @@
+{
+    "header": {
+        "description": "By @netease", 
+        "version": [
+            0, 
+            0, 
+            4
+        ], 
+        "uuid": "7b3d6353-0209-4dfd-a3f6-b61698cb4849", 
+        "name": "ss_wuqi_gongjian_0_0"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                4
+            ], 
+            "type": "data", 
+            "description": "By @netease", 
+            "uuid": "2f0f69af-a31f-4cdc-a5ab-a903baa08166"
+        }
+    ], 
+    "format_version": 1
+}

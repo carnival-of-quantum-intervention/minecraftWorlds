@@ -1,0 +1,25 @@
+{
+    "header": {
+        "version": [
+            0, 
+            0, 
+            2
+        ], 
+        "uuid": "27a377e2-dac0-48d9-936d-2494742783af", 
+        "name": "XyHorseJxl", 
+        "description": "By @netease"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                2
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "9b7506a7-8710-41ec-9b3e-6b834ccb9cf1"
+        }
+    ], 
+    "format_version": 1
+}

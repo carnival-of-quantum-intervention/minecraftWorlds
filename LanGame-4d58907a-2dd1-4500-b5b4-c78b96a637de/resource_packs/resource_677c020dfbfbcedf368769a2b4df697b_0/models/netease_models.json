@@ -1,0 +1,16 @@
+{
+    "ss_horse_jixiexiongmao_0_0": {
+        "animation": {
+            "ss_horse_Jixiexiongmao_idle1_0": "animation/ss_horse_jixiexiongmao_0_0_animation_idle1_0.json",
+            "ss_horse_Jixiexiongmao_idle3_0": "animation/ss_horse_jixiexiongmao_0_0_animation_idle3_0.json",
+            "ss_horse_Jixiexiongmao_jump_0": "animation/ss_horse_jixiexiongmao_0_0_animation_jump_0.json",
+            "ss_horse_Jixiexiongmao_run_0": "animation/ss_horse_jixiexiongmao_0_0_animation_run_0.json"
+        },
+        "mesh": "mesh/ss_horse_jixiexiongmao_0_0_mesh.json",
+        "skeleton": "skeleton/ss_horse_jixiexiongmao_0_0_skeleton.json",
+		"texture": {
+            "tex1": "dy_load/ss_horse_jixiexiongmao_0_bloom"
+        },
+		"dy_load": true
+    }
+}

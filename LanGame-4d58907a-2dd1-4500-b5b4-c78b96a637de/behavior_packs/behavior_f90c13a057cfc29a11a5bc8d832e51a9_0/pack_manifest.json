@@ -1,0 +1,25 @@
+{
+    "header": {
+        "uuid": "6b082b3e-d5eb-479a-9952-bcefb9946b1e", 
+        "version": [
+            0, 
+            0, 
+            5
+        ], 
+        "description": "By @netease", 
+        "name": "\u00a7lmahoujinK"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                5
+            ], 
+            "type": "data", 
+            "description": "By @netease", 
+            "uuid": "7937a626-d337-4411-937a-c28fb99fc260"
+        }
+    ], 
+    "format_version": 1
+}

@@ -1,0 +1,85 @@
+{
+  "particleeffect": {
+    "constantforce": {
+      "value": "0.0 -2.0 0.0"
+    },
+    "enableloop": {
+      "enable": "true"
+    },
+    "texture": {
+      "name": "textures/particle/dy_load/xy_jiaoyin_huiyuanziyuan_03_paopao"
+    },
+    "sorted": {
+      "enable": "false"
+    },
+    "emittersize": {
+      "value": "0.8 0.5 0.8"
+    },
+    "velocity": {
+      "min": "0.5",
+      "max": "1.0"
+    },
+    "enablecolor": {
+      "enable": "false"
+    },
+    "timetolive": {
+      "min": "0.0",
+      "max": "1.0"
+    },
+    "particlesize": {
+      "min": "0.1 0.1",
+      "max": "0.15 0.15"
+    },
+    "inactivetime": {
+      "value": "0.0"
+    },
+    "colorfade": [],
+    "faceCameraMode": {
+      "value": "Rotate XYZ"
+    },
+    "numparticles": {
+      "value": "8"
+    },
+    "direction": {
+      "min": "0.0 0.0 0.0",
+      "max": "0.0 0.0 0.0"
+    },
+    "activetime": {
+      "value": "0.0"
+    },
+    "scaled": {
+      "enable": "true"
+    },
+    "rotation": {
+      "min": "0.0",
+      "max": "360.0"
+    },
+    "relative": {
+      "enable": "false"
+    },
+    "rotationspeed": {
+      "min": "0.0",
+      "max": "50.0"
+    },
+    "fixedscreensize": {
+      "enable": "false"
+    },
+    "emissionrate": {
+      "min": "20.0",
+      "max": "50.0"
+    },
+    "material": {
+      "name": "Materials/Particle.xml"
+    },
+    "blend": {
+      "name": "blend"
+    },
+    "sizedelta": {
+      "mul": "0.87",
+      "add": "0.03"
+    },
+    "dampingforce": {
+      "value": "2.0"
+    }
+  }
+}

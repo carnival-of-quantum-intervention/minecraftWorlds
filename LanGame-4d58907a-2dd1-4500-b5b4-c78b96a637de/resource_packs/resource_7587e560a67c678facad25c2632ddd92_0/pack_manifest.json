@@ -1,0 +1,25 @@
+{
+    "header": {
+        "version": [
+            0, 
+            0, 
+            2
+        ], 
+        "uuid": "3e86a8a7-2d3b-47eb-9569-673a87a73627", 
+        "name": "XyFp04", 
+        "description": "By @netease"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                2
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "fdbf61bf-17a7-4971-86d3-1f9c26a4a8fa"
+        }
+    ], 
+    "format_version": 1
+}

@@ -1,0 +1,6 @@
+{
+"v_unvisible_bind":{
+	"skeleton":"skeleton/v_unvisible_bind_skeleton.json",
+	"dy_load": true
+	}
+}

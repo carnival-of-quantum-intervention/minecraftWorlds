@@ -1,0 +1,25 @@
+{
+    "header": {
+        "uuid": "48d77290-35d6-456b-b748-1a8707d00247", 
+        "version": [
+            0, 
+            0, 
+            5
+        ], 
+        "description": "By @netease", 
+        "name": "\u00a7lmahoujinS"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                5
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "a84300b7-4c18-4452-9270-163cf25ed8a3"
+        }
+    ], 
+    "format_version": 1
+}

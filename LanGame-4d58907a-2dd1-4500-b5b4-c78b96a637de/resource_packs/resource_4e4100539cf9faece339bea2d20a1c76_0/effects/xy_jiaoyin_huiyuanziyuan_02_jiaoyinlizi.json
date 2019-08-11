@@ -1,0 +1,89 @@
+{
+  "particleeffect": {
+    "timetolive": {
+      "max": "1.0",
+      "min": "0.0"
+    },
+    "constantforce": {
+      "value": "0.0 -2.0 0.0"
+    },
+    "enableloop": {
+      "enable": "true"
+    },
+    "rotationspeed": {
+      "max": "50.0",
+      "min": "-50.0"
+    },
+    "inactivetime": {
+      "value": "0.0"
+    },
+    "material": {
+      "name": "Materials/Particle.xml"
+    },
+    "particlesize": {
+      "max": "0.2 0.2",
+      "min": "0.3 0.3"
+    },
+    "numparticles": {
+      "value": "8"
+    },
+    "texture": {
+      "name": "textures/sfxs/dy_load/xy_jiaoyin_huiyuanziyuan_02_jiaoyinlizi",
+      "ani": {
+        "fps": "30.0",
+        "name": "textures/sfxs/dy_load/xy_jiaoyin_huiyuanziyuan_02_jiaoyinlizi"
+      }
+    },
+    "sizedelta": {
+      "mul": "0.8",
+      "add": "0.0"
+    },
+    "colorfade": [],
+    "dampingforce": {
+      "value": "2.0"
+    },
+    "blend": {
+      "name": "blend"
+    },
+    "activetime": {
+      "value": "0.0"
+    },
+    "sorted": {
+      "enable": "false"
+    },
+    "relative": {
+      "enable": "false"
+    },
+    "faceCameraMode": {
+      "value": "Rotate XYZ"
+    },
+    "emittersize": {
+      "value": "0.8 0.5 0.8"
+    },
+    "direction": {
+      "max": "0.0 0.0 0.0",
+      "min": "0.0 0.0 0.0"
+    },
+    "emissionrate": {
+      "max": "50.0",
+      "min": "20.0"
+    },
+    "scaled": {
+      "enable": "true"
+    },
+    "enablecolor": {
+      "enable": "false"
+    },
+    "fixedscreensize": {
+      "enable": "false"
+    },
+    "rotation": {
+      "max": "0.0",
+      "min": "50.0"
+    },
+    "velocity": {
+      "max": "1.0",
+      "min": "0.5"
+    }
+  }
+}

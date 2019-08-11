@@ -1,0 +1,18 @@
+{
+    "v_weapon_fazhang": {
+        "mesh": "mesh/text_mesh.json", 
+        "animation": {
+            "idle": "animation/text_animation_zhongerfazhang.json"
+        }, 
+        "skeleton": "skeleton/text_skeleton.json",
+		"dy_load": true
+    },
+	"v_weapon_fazhang_pro": {
+        "animation": {
+            "idle": "animation/fazhang_animation_zhongerfazhang.json"
+        },
+        "mesh": "mesh/fazhang_mesh.json",
+        "skeleton": "skeleton/fazhang_skeleton.json",
+		"dy_load": true
+    }
+}

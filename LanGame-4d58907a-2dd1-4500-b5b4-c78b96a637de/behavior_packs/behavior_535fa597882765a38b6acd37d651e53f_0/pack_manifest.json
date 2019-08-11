@@ -1,0 +1,25 @@
+{
+    "header": {
+        "version": [
+            0, 
+            0, 
+            2
+        ], 
+        "uuid": "1cb2dbb2-3f3a-49e0-9ae1-0d32ce7da374", 
+        "name": "ss_fazhen_huiyuanziyuan_01", 
+        "description": "By @netease"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                2
+            ], 
+            "type": "data", 
+            "description": "By @netease", 
+            "uuid": "d31260ab-af8b-4d22-8b64-e0dc73ae41cb"
+        }
+    ], 
+    "format_version": 1
+}

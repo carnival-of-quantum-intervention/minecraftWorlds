@@ -1,0 +1,25 @@
+{
+    "header": {
+        "version": [
+            0, 
+            0, 
+            2
+        ], 
+        "uuid": "9b3b6ed1-cd52-4e0f-ba3f-8e1f6a71f9f0", 
+        "name": "xy_fazhen_huiyuanziyuan_01", 
+        "description": "By @netease"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                2
+            ], 
+            "type": "resources", 
+            "description": "By @netease", 
+            "uuid": "7455888f-4b66-4853-992a-3e7083b243b9"
+        }
+    ], 
+    "format_version": 1
+}

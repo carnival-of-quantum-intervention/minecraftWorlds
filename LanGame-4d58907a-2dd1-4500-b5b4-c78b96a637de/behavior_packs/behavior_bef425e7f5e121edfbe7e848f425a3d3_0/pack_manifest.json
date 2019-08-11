@@ -1,0 +1,25 @@
+{
+    "header": {
+        "uuid": "1cb02638-df2d-4766-b907-49046367b3c6", 
+        "version": [
+            0, 
+            0, 
+            3
+        ], 
+        "description": "By @netease", 
+        "name": "\u00a7ldabaojian"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                3
+            ], 
+            "type": "data", 
+            "description": "By @netease", 
+            "uuid": "62e386d4-cac7-4fdd-92b8-2c5b5398dfe8"
+        }
+    ], 
+    "format_version": 1
+}

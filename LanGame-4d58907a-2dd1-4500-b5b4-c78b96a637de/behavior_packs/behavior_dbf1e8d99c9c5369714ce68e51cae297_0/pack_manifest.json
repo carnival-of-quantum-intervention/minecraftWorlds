@@ -1,0 +1,25 @@
+{
+    "header": {
+        "description": "By @netease", 
+        "version": [
+            0, 
+            0, 
+            4
+        ], 
+        "uuid": "fdbc7a80-bce2-4eac-a2ff-79c6383e1f4e", 
+        "name": "ss_horse_jixieluxingniao_0_0"
+    }, 
+    "modules": [
+        {
+            "version": [
+                0, 
+                0, 
+                4
+            ], 
+            "type": "data", 
+            "description": "By @netease", 
+            "uuid": "b62f5f65-7884-4136-9a93-c9fb0f192a05"
+        }
+    ], 
+    "format_version": 1
+}

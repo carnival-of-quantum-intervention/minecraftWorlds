@@ -1,0 +1,98 @@
+{
+  "particleeffect": {
+    "timetolive": {
+      "max": "1.0",
+      "min": "0.6"
+    },
+    "constantforce": {
+      "value": "0.0 -2.0 0.0"
+    },
+    "emittersize": {
+      "value": "1.0 0.6 1.0"
+    },
+    "rotationspeed": {
+      "max": "-60.0",
+      "min": "-90.0"
+    },
+    "inactivetime": {
+      "value": "0.0"
+    },
+    "material": {
+      "name": "Materials/Particle.xml"
+    },
+    "particlesize": {
+      "max": "0.3 0.3",
+      "min": "0.2 0.2"
+    },
+    "numparticles": {
+      "value": "10"
+    },
+    "dampingforce": {
+      "value": "6.0"
+    },
+    "sizedelta": {
+      "mul": "0.6",
+      "add": "0.12"
+    },
+    "colorfade": [
+      {
+        "time": "0.0",
+        "color": "0.145098 0.929412 1.0 0.6"
+      },
+      {
+        "time": "0.6",
+        "color": "0.137255 0.913725 1.0 0.4"
+      }
+    ],
+    "texture": {
+      "name": "textures/sfxs/dy_load/ss_fazhen_huiyuanziyuan_01_fangkaui",
+      "ani": {
+        "fps": "15.0",
+        "name": "textures/sfxs/dy_load/ss_fazhen_huiyuanziyuan_01_fangkaui"
+      }
+    },
+    "blend": {
+      "name": "blend"
+    },
+    "activetime": {
+      "value": "0.0"
+    },
+    "sorted": {
+      "enable": "false"
+    },
+    "relative": {
+      "enable": "false"
+    },
+    "faceCameraMode": {
+      "value": "Rotate XYZ"
+    },
+    "enableloop": {
+      "enable": "false"
+    },
+    "direction": {
+      "max": "1.0 1.0 1.0",
+      "min": "-1.0 -1.0 -1.0"
+    },
+    "emissionrate": {
+      "max": "15.0",
+      "min": "15.0"
+    },
+    "scaled": {
+      "enable": "false"
+    },
+    "enablecolor": {
+      "enable": "false"
+    },
+    "fixedscreensize": {
+      "enable": "false"
+    },
+    "rotation": {
+      "max": "-45.0",
+      "min": "30.0"
+    },
+    "velocity": {
+      "max": "1.0",
+      "min": "0.5"
+    }
+  }
+}

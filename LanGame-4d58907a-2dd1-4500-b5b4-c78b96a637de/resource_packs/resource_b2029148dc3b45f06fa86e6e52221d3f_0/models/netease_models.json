@@ -1,0 +1,7 @@
+{
+    "v_jindouyun": {
+        "mesh": "mesh/v_jindouyun_mesh.json", 
+        "skeleton": "skeleton/v_jindouyun_skeleton.json",
+		"dy_load": true
+    }
+}
